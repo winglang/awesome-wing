@@ -44,7 +44,7 @@ Websites with Wing related content.
 
 #### Twitter
 
-* [#winglang hashtag](https://twitter.com/search?q=%winglang&src=typed_query)
+* [#winglang hashtag](https://twitter.com/search?q=winglang&src=typed_query)
 * [@winglangio](https://twitter.com/winglangio) - The official twitter account.
 * [@emeshbi](https://twitter.com/emeshbi) - The creator of Wing.
 
