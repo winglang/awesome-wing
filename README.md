@@ -6,7 +6,7 @@ Have a Wing project to share with the world? Just open a pull request!
 
 For a list of frequently updated libraries, check out [**Winglibs**](https://github.com/winglang/winglibs), aka the *Wing Trusted Library Ecosystem*.
 
-- [meirdev/winglet](https://github.com/meirdev/winglet) - A web framework for Wing.
+- [meirdev/winglet](https://github.com/meirdev/winglet) - A web framework for Wing with examples for CORS, HTTP streaming, templates, and more.
 
 ## Examples
 
@@ -14,8 +14,8 @@ Check out [winglang/examples](https://github.com/winglang/examples) for a collec
 
 ## Projects
 
-- [meirdev/realworld-example-winglang](https://github.com/meirdev/realworld-example-winglang) - A [RealWorld](https://github.com/gothinkster/realworld) example app written in Wing.
-- [winglang/voting-app](https://github.com/winglang/voting-app) - A simple voting app written in Wing.
+- [meirdev/realworld-example-winglang](https://github.com/meirdev/realworld-example-winglang) - A [RealWorld](https://github.com/gothinkster/realworld) example CRUD app featuring a frontend and backend, written in Wing.
+- [winglang/voting-app](https://github.com/winglang/voting-app) - A simple voting app using the Wing Cloud Library and DynamoDB.
 - [winglang/workshop-bedrock](https://github.com/winglang/workshop-bedrock) - A workshop for using Amazon Bedrock generative AI with Wing.
 - [winglang/gwomp](https://github.com/winglang/gwomp) - Sends a cute little slack message with a list of assigned GitHub issues and PRs so you can be on top of thaaaaangs.
 
