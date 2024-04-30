@@ -39,6 +39,7 @@ Websites with Wing related content.
 - [A Quick Intro to Winglang](https://www.youtube.com/watch?v=wzqCXrsKWbo&pp=ygUNd2luZyBsYW5ndWFnZQ%3D%3D) - [Elad Ben-Israel](https://github.com/eladb)
 - [Introducing Winglang - a new open-source programming language designed for the cloud](https://www.youtube.com/watch?v=chqcE5YgVrw) - [Cristian Pallarés](https://github.com/skyrpex)
 - [Can Wing Redefine Cloud Development? Exploring the New Open Source Language](https://www.youtube.com/watch?v=1bI6bgVRW_c) - [Chris Rybicki](https://github.com/Chriscbr)
+- [If Dev and Ops had a Baby, it would be Called Winglang](https://www.youtube.com/watch?v=ECqpEE2_IEA) - [Elad Ben Israel](https://github.com/eladb)
 
 ### Social Media
 
