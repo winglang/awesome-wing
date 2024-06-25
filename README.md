@@ -18,6 +18,7 @@ Check out [winglang/examples](https://github.com/winglang/examples) for a collec
 - [winglang/voting-app](https://github.com/winglang/voting-app) - A simple voting app using the Wing Cloud Library and DynamoDB.
 - [winglang/workshop-bedrock](https://github.com/winglang/workshop-bedrock) - A workshop for using Amazon Bedrock generative AI with Wing.
 - [winglang/gwomp](https://github.com/winglang/gwomp) - Sends a cute little slack message with a list of assigned GitHub issues and PRs so you can be on top of thaaaaangs.
+- [Chriscbr/wing-releases-discord-bot](https://github.com/Chriscbr/wing-releases-discord-bot) - A discord bot that posts about new versions of Wing to the [Wing Discord server](https://t.winglang.io/discord).
 
 ## Resources
 
@@ -49,8 +50,6 @@ Websites with Wing related content.
 * [@winglangio](https://twitter.com/winglangio) - The official twitter account.
 * [@emeshbi](https://twitter.com/emeshbi) - The creator of Wing.
 
-<!--
-#### Reddit
+#### Discord
 
-* [r/winglang](https://reddit.com/r/winglang/)
--->
+* [Discord](https://t.winglang.io/discord)
